@@ -1,0 +1,9 @@
+.btn-info {
+    --bs-btn-bg: rgb(21, 210, 21);
+    --bs-btn-border-color: rgb(21, 210, 21);
+    color: red;
+}
+
+.btn-info:hover {
+    color: red;
+}
